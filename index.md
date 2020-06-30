@@ -12,3 +12,5 @@ Iron Man is a fictional superhero appearing in American comic books published by
 
 My favourite quote about Iron Man is
 >I'm Iron Man.
+
+<img src="http://pngimg.com/uploads/ironman/ironman_PNG10.png"/>
